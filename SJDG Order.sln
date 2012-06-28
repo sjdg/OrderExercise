@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SJDG Order", "SJDG Order\SJDG Order.csproj", "{215B9C5C-0611-4253-B5D2-2E62E64CBCF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SJDGOrderTests", "SJDGOrderTests\SJDGOrderTests.csproj", "{EB26FF2D-5862-4528-8607-F15F26E1C6BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{215B9C5C-0611-4253-B5D2-2E62E64CBCF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215B9C5C-0611-4253-B5D2-2E62E64CBCF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215B9C5C-0611-4253-B5D2-2E62E64CBCF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215B9C5C-0611-4253-B5D2-2E62E64CBCF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB26FF2D-5862-4528-8607-F15F26E1C6BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB26FF2D-5862-4528-8607-F15F26E1C6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB26FF2D-5862-4528-8607-F15F26E1C6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB26FF2D-5862-4528-8607-F15F26E1C6BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
